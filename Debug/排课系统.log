@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\c++\排课系统\ClassSchedule.h(146): warning C4715: “ClassSchedule::Arrange2”: 不是所有的控件路径都返回值
+D:\c++\排课系统\ClassSchedule.h(164): warning C4715: “ClassSchedule::Arrange3”: 不是所有的控件路径都返回值
+D:\c++\排课系统\ClassSchedule.h(127): warning C4715: “ClassSchedule::have2”: 不是所有的控件路径都返回值
+D:\c++\排课系统\ClassSchedule.h(96): warning C4715: “ClassSchedule::have3”: 不是所有的控件路径都返回值
+D:\c++\排课系统\ClassSchedule.h(498): warning C4715: “ClassSchedule::getchinese”: 不是所有的控件路径都返回值
+  排课系统.vcxproj -> D:\c++\排课系统\Debug\排课系统.exe
